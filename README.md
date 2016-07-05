@@ -12,5 +12,5 @@ to run this project
 * ###to start type : npm start 
 * go to local host 'http://localhost:3000' you will see this 
 
-Inline-style: 
+todo list image: 
 ![alt text](http://adndevblog.typepad.com/.a/6a0167607c2431970b01b7c7b3566b970b-pi "Logo Title Text 1")
